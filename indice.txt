@@ -1,3 +1,5 @@
 Java 7
 "Thinking in Java 4th edition" Bruce Eckel
 The Codeless Code
+El camino a un mejor programador
+Aprenda a programar como si estuvieras en primero
